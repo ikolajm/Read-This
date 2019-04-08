@@ -1,0 +1,50 @@
+.container {
+    margin: 0 auto !important;
+}
+
+.content {
+    padding-top: 2rem;
+}
+
+.aside {
+    padding: 1rem;
+    background: aquamarine;
+    border-radius: 3px;
+    box-shadow: 1px 1px 5px black;
+}
+
+.aside-content {
+    padding: .5rem;
+    background: white;
+    border-radius: 3px;
+}
+
+.submissions {
+    padding: 1rem;
+    border-radius: 3px;
+    background: aquamarine;
+}
+
+.submissions h3 {
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+
+.posts {
+    background: white;
+    border-radius: 3px;
+}
+
+.posts ul {
+    padding: 0;
+    list-style: none;
+}
+
+.posts ul li {
+    background: lightgrey;
+    padding: .25rem;
+}
+
+.posts ul li:nth-child(2) {
+    background: white;
+}
